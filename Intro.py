@@ -15,4 +15,4 @@ while True:
     else:
         print("As I said before, Yes/Nay only, please try again")
     
-Thank you so much for viewing :)
+# Thank you so much for viewing :)
